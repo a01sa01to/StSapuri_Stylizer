@@ -1,0 +1,18 @@
+{
+	"manifest_version": 2,
+	"name": "StudySapuri Stylizer",
+	"version": "1.0",
+
+	"description": "スタサプの見た目を私好みにします。",
+	"icons": {
+		"16": "icon/16.png",
+		"48": "icon/48.png"
+	},
+	"author": "Asa",
+	"permissions": ["activeTab"],
+	"content_scripts": [{
+		"matches": ["https://learn.studysapuri.jp/ja/*"],
+		"css": ["./style.css"],
+		"js": ["./script.js"]
+	}]
+}
