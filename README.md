@@ -17,7 +17,7 @@ Chrome拡張機能。<br>
 
 [![Release](https://img.shields.io/github/v/release/a01sa01to/StSapuri_stylizer?label=Latest%20release&maxAge=3600)](https://github.com/a01sa01to/StSapuri_stylizer/releases)<br>
 
-> Version 1.0 Released on 2020.1.19
+> Version 1.0 Released on 2020.1.21
 
 ## Author
 
